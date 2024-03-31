@@ -1,4 +1,4 @@
-# Location Finder
+# node-infohub
 
 Location Finder is a Node.js library for retrieving information about IP addresses, weather data, and currency conversion rates.
 
